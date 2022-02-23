@@ -1,0 +1,5 @@
+Paso 1: Instalar Python
+Paso 2: Instalar la librería paho.mqtt usando "py -m pip install paho-mqtt"
+Paso 3: Para ejecutar, ir a la ruta y escribir "python bd.py"
+Paso 4: Instalar la librería mysqlclient usando "py -m pip install mysqlclient"
+	???*Prerequisito: Tener instalado Microsoft Visual C++ 2015 Redistributable???
